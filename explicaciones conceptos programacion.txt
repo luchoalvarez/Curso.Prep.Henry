@@ -1,0 +1,27 @@
+Variables: Piensa en una variable como una cajita. Son pequeñas cajas donde donde yo guardo esos datos
+Strings: es como le damos nombres a los personajes de tu anime favorito
+Ej: 
+Var: nombrePersonaje = "Goku";
+Var: nombreMontañaPersonaje = "El Monte Paoz" 
+
+alert ("Nombre del personaje:" +nombrePersonaje);
+alert ("Nombre de la Montaña:" +nombreMontañaPersonaje);
+
+//funcion document write
+
+document.write("Nombre:"+nombrePersonaje +"Nombre de la Montaña"+nombreMontañaPersonaje)+ "")
+
+-Funciones:
+Una funcion es como una receta que tiene unos pasos a seguir y hay un resultado esperado
+
+Ej:
+1.Paso 1 los ingredientes, esos son los datos de entrada
+2, la receta
+
+Declaraciones if
+las condicionales  me permite cojer por diferentes caminos
+
+
+Valores booleanos (true, false)
+Tienen solo dos valores, verdadero o falso, son importantes para aplicar condiciones 
+Ej: Un usuario pone la contraseña , si es correcta, true, entra si no false no entra
